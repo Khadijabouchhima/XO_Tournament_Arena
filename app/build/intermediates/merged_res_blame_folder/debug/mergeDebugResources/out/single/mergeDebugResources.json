@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_card_bg.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_result.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_game.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_game.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_menu_music.mp3.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/menu_music.mp3"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_tournament.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/tournament.wav"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_move.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/move.wav"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_click.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/click.wav"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_chip_bg.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/chip_bg.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_history.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/anim_pop.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/anim/pop.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/font_dm_sans.ttf.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/font/dm_sans.ttf"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_cell_bg.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/cell_bg.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_draw.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/draw.wav"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_achievement.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/achievement.wav"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/anim_fade_in.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_settings.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_primary_button.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/primary_button.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_secondary_button.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/secondary_button.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_score_box_bg.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/score_box_bg.xml"
+    },
+    {
+        "merged": "com.example.xotournamentarena.app-debug-23:/layout_activity_statistics.xml.flat",
+        "source": "com.example.xotournamentarena.app-main-25:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.example.xotournamentarena.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "com.example.xotournamentarena.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_rules.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_rules.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_history_item.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/history_item.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/layout_activity_splash.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/drawable_cell_win_bg.xml.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/drawable/cell_win_bg.xml"
+    },
+    {
+        "merged": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-debug-23:/raw_win.wav.flat",
+        "source": "/Users/khadijabouchhima/.gradle/daemon/8.9/com.example.xotournamentarena.app-main-25:/raw/win.wav"
+    }
+]

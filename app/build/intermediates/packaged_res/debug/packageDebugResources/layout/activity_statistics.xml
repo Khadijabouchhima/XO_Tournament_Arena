@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:paddingTop="52dp"
+        android:paddingBottom="32dp">
+
+        <TextView
+            android:id="@+id/statsBackBtn"
+            android:text="← Back"
+            android:textSize="14sp"
+            android:textColor="@color/text_muted"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:padding="4dp" />
+
+        <TextView
+            android:text="Statistics"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_main"
+            android:letterSpacing="-0.02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Your tournament performance overview"
+            android:textSize="14sp"
+            android:textColor="@color/text_muted"
+            android:layout_marginTop="6dp"
+            android:layout_marginBottom="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- Empty state -->
+        <TextView
+            android:id="@+id/emptyStatsText"
+            android:text="No statistics yet.\nFinish a tournament and your stats will appear here automatically."
+            android:textColor="@color/text_muted"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:lineSpacingExtra="6dp"
+            android:background="@drawable/card_bg"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="18dp" />
+
+        <!-- Main stats card -->
+        <LinearLayout
+            android:id="@+id/statsContent"
+            android:background="@drawable/card_bg"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Overview"
+                android:textSize="13sp"
+                android:textAllCaps="true"
+                android:letterSpacing="0.1"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="14dp" />
+
+            <TextView
+                android:id="@+id/totalTournamentsText"
+                android:text="Total tournaments: 0"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/totalRoundsText"
+                android:text="Total rounds played: 0"
+                android:textSize="15sp"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/xWinsText"
+                android:text="X round wins: 0"
+                android:textSize="15sp"
+                android:textColor="@color/player_x"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/oWinsText"
+                android:text="O round wins: 0"
+                android:textSize="15sp"
+                android:textColor="@color/player_o"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/drawsText"
+                android:text="Draw rounds: 0"
+                android:textSize="15sp"
+                android:textColor="@color/draw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <!-- Performance card -->
+        <LinearLayout
+            android:background="@drawable/card_bg"
+            android:orientation="vertical"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="Performance"
+                android:textSize="13sp"
+                android:textAllCaps="true"
+                android:letterSpacing="0.1"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="14dp" />
+
+            <TextView
+                android:id="@+id/bestSideText"
+                android:text="Best side: Balanced"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/text_main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/mostPlayedModeText"
+                android:text="Most played mode: -"
+                android:textSize="15sp"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/aiMatchesText"
+                android:text="AI tournaments: 0"
+                android:textSize="15sp"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/hardAiText"
+                android:text="Hard AI tournaments: 0"
+                android:textSize="15sp"
+                android:textColor="@color/text_muted"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <!-- Summary card -->
+        <TextView
+            android:id="@+id/statsSummaryText"
+            android:background="@drawable/card_bg"
+            android:text="Summary"
+            android:textColor="@color/text_main"
+            android:textSize="15sp"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

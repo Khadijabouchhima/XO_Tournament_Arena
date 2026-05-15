@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg">#F4F3FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_elevated">#EDEAFF</color>
+
+    <!-- Text -->
+    <color name="text_main">#0E0B1F</color>
+    <color name="text_muted">#7B72A8</color>
+    <color name="text_dim">#B0A8D4</color>
+
+    <!-- Accent — electric violet -->
+    <color name="accent">#6B46FA</color>
+    <color name="accent_dim">#DDD8FF</color>
+    <color name="accent_glow">#5035D0</color>
+
+    <!-- Player colors -->
+    <color name="player_x">#E8355A</color>
+    <color name="player_x_dim">#FDDDE4</color>
+    <color name="player_o">#0099B0</color>
+    <color name="player_o_dim">#D0F4F9</color>
+
+    <!-- States -->
+    <color name="win">#1A9E5C</color>
+    <color name="win_dim">#D2F5E6</color>
+    <color name="draw">#D08A00</color>
+    <color name="danger">#E03131</color>
+
+    <!-- Borders -->
+    <color name="border">#E2DEFC</color>
+    <color name="border_bright">#C5BEF5</color>
+</resources>

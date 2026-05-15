@@ -1,0 +1,41 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:theme="@style/AppTheme"
+        android:label="XO Tournament Arena"
+        android:allowBackup="true"
+        android:supportsRtl="true">
+        <activity
+            android:name=".activities.StatisticsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.HistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.ResultActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.RulesActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.GameActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

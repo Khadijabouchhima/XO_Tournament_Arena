@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.xotournamentarena.app-mergeDebugResources-21:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/khadijabouchhima/.gradle/caches/8.9/transforms/9976626f0aa34d8b66834c84661ecf74/transformed/appcompat-1.7.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "73,74,75,76,77,78,79,80",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3565,3635,3719,3803,3899,4001,4103,4197",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "3630,3714,3798,3894,3996,4098,4192,4281"
+                    }
+                },
+                {
+                    "source": "/Users/khadijabouchhima/Desktop/XO_Tournament_Arena/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14,29,54,43",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "56,643,1333,2479,1981",
+                        "endLines": "11,26,40,62,51",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "589,1291,1935,2911,2428"
+                    },
+                    "to": {
+                        "startLines": "21,30,43,55,64",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "878,1416,2069,2676,3113",
+                        "endLines": "29,42,54,63,72",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "1411,2064,2671,3108,3560"
+                    }
+                },
+                {
+                    "source": "/Users/khadijabouchhima/Desktop/XO_Tournament_Arena/app/src/main/res/values-night/colors.xml",
+                    "from": {
+                        "startLines": "13,14,15,3,30,31,27,26,20,21,18,19,4,5,10,8,9,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "400,441,486,80,943,984,880,841,650,693,560,603,117,159,318,229,273,761,799",
+                        "endColumns": "40,44,45,36,40,47,40,38,42,46,42,46,41,50,42,43,44,37,41",
+                        "endOffsets": "436,481,527,112,979,1027,916,875,688,735,598,645,154,205,356,268,313,794,836"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,96,141,187,224,265,313,354,393,436,483,526,573,615,666,709,753,798,836",
+                        "endColumns": "40,44,45,36,40,47,40,38,42,46,42,46,41,50,42,43,44,37,41",
+                        "endOffsets": "91,136,182,219,260,308,349,388,431,478,521,568,610,661,704,748,793,831,873"
+                    }
+                }
+            ]
+        }
+    ]
+}

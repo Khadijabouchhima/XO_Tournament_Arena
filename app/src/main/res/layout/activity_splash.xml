@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/bg"
+    android:padding="24dp">
+
+    <TextView
+        android:text="XO"
+        android:textSize="82sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent"
+        android:letterSpacing="-0.03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="Tournament Arena"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_main"
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ProgressBar
+        android:layout_marginTop="32dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/accent"
+        android:layout_width="42dp"
+        android:layout_height="42dp" />
+
+</LinearLayout>
